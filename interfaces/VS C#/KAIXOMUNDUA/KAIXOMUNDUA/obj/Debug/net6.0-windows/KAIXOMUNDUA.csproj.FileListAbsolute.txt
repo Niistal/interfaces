@@ -1,0 +1,16 @@
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\bin\Debug\net6.0-windows\KAIXOMUNDUA.exe
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\bin\Debug\net6.0-windows\KAIXOMUNDUA.deps.json
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\bin\Debug\net6.0-windows\KAIXOMUNDUA.runtimeconfig.json
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\bin\Debug\net6.0-windows\KAIXOMUNDUA.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\bin\Debug\net6.0-windows\KAIXOMUNDUA.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.Form1.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.csproj.GenerateResource.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.AssemblyInfoInputs.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.AssemblyInfo.cs
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.csproj.CoreCompileInputs.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\refint\KAIXOMUNDUA.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\KAIXOMUNDUA.genruntimeconfig.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\KAIXOMUNDUA\KAIXOMUNDUA\obj\Debug\net6.0-windows\ref\KAIXOMUNDUA.dll
