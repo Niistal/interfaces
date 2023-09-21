@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
+            txtZenb = new TextBox();
             label1 = new Label();
             Lbzenb = new Label();
             Hurrengoa = new Button();
@@ -36,12 +36,12 @@
             Irten = new Button();
             SuspendLayout();
             // 
-            // textBox1
+            // txtZenb
             // 
-            textBox1.Location = new Point(268, 59);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(453, 27);
-            textBox1.TabIndex = 0;
+            txtZenb.Location = new Point(229, 133);
+            txtZenb.Name = "txtZenb";
+            txtZenb.Size = new Size(453, 27);
+            txtZenb.TabIndex = 0;
             // 
             // label1
             // 
@@ -53,50 +53,56 @@
             // Lbzenb
             // 
             Lbzenb.AutoSize = true;
-            Lbzenb.Location = new Point(78, 61);
+            Lbzenb.BackColor = Color.MediumBlue;
+            Lbzenb.Font = new Font("Segoe UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point);
+            Lbzenb.ForeColor = Color.Transparent;
+            Lbzenb.Location = new Point(71, 133);
             Lbzenb.Name = "Lbzenb";
-            Lbzenb.Size = new Size(85, 20);
+            Lbzenb.Size = new Size(110, 25);
             Lbzenb.TabIndex = 1;
             Lbzenb.Text = "1. Zenbakia";
             // 
             // Hurrengoa
             // 
-            Hurrengoa.Location = new Point(108, 356);
+            Hurrengoa.Location = new Point(104, 231);
             Hurrengoa.Name = "Hurrengoa";
             Hurrengoa.Size = new Size(146, 35);
             Hurrengoa.TabIndex = 2;
             Hurrengoa.Text = "Hurrengoa";
             Hurrengoa.UseVisualStyleBackColor = true;
+            Hurrengoa.Click += Hurrengoa_Click;
             // 
             // Garbitu
             // 
-            Garbitu.Location = new Point(333, 356);
+            Garbitu.Location = new Point(329, 231);
             Garbitu.Name = "Garbitu";
             Garbitu.Size = new Size(146, 35);
             Garbitu.TabIndex = 3;
             Garbitu.Text = "Garbitu";
             Garbitu.UseVisualStyleBackColor = true;
+            Garbitu.Click += Garbitu_Click;
             // 
             // Irten
             // 
-            Irten.Location = new Point(553, 356);
+            Irten.Location = new Point(549, 231);
             Irten.Name = "Irten";
             Irten.Size = new Size(146, 35);
             Irten.TabIndex = 4;
             Irten.Text = "Irten";
             Irten.UseVisualStyleBackColor = true;
+            Irten.Click += Irten_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(746, 431);
             Controls.Add(Irten);
             Controls.Add(Garbitu);
             Controls.Add(Hurrengoa);
             Controls.Add(Lbzenb);
             Controls.Add(label1);
-            Controls.Add(textBox1);
+            Controls.Add(txtZenb);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -105,7 +111,7 @@
 
         #endregion
 
-        private TextBox textBox1;
+        private TextBox txtZenb;
         private Label label1;
         private Label Lbzenb;
         private Button Hurrengoa;

@@ -7,6 +7,19 @@ namespace ariketa2
             InitializeComponent();
         }
 
+        private void Hurrengoa_Click(object sender, EventArgs e)
+        {
+            
+        }
 
+        private void Garbitu_Click(object sender, EventArgs e)
+        {
+            txtZenb.Clear();
+        }
+
+        private void Irten_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
