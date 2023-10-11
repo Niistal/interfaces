@@ -1,0 +1,40 @@
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\aginte koadroa.exe.config
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\aginte koadroa.exe
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\aginte koadroa.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\GrafikoaDLL.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\Npgsql.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Buffers.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Memory.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Numerics.Vectors.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Text.Json.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.ValueTuple.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\GrafikoaDLL.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\Npgsql.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\Npgsql.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Buffers.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Memory.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Text.Json.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\bin\Release\System.ValueTuple.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.csproj.AssemblyReference.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte_koadroa.Form1.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte_koadroa.Properties.Resources.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.csproj.GenerateResource.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.csproj.CoreCompileInputs.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.csproj.CopyComplete
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.exe
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa\obj\Release\aginte koadroa.pdb

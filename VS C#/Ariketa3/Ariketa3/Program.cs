@@ -1,4 +1,4 @@
-namespace Ariketa3
+namespace ariketa3
 {
     internal static class Program
     {

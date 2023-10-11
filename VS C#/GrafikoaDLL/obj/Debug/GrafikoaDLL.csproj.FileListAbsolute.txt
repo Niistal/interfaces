@@ -1,0 +1,8 @@
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\bin\Debug\GrafikoaDLL.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\bin\Debug\GrafikoaDLL.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.AssemblyReference.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.UserControl1.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.GenerateResource.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.csproj.CoreCompileInputs.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\GrafikoaDLL\obj\Debug\GrafikoaDLL.pdb

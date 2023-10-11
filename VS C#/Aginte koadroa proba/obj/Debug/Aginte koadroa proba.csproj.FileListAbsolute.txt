@@ -1,0 +1,38 @@
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Aginte koadroa proba.exe.config
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Aginte koadroa proba.exe
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Aginte koadroa proba.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Npgsql.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Buffers.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Memory.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Text.Json.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.ValueTuple.dll
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Npgsql.pdb
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\Npgsql.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Buffers.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Memory.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Text.Json.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\bin\Debug\System.ValueTuple.xml
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.csproj.AssemblyReference.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte_koadroa_proba.Form1.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte_koadroa_proba.Properties.Resources.resources
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.csproj.GenerateResource.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.csproj.CoreCompileInputs.cache
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.csproj.CopyComplete
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.exe
+C:\Users\nistal.iker\Desktop\Dam2\DdI\VS C#\Aginte koadroa proba\obj\Debug\Aginte koadroa proba.pdb
